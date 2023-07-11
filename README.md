@@ -47,3 +47,4 @@ To avoid throwing undesired exceptions, we have skipped following scenarios
   * Trigger config record has legitimate values for Name and Apex Handler fields
 
 Underlying assumption with this approach is that administrator/ developer need to ensure appropriate setup of trigger config records for expected result.
+# Apex-Trigger-Design-Pattern-
