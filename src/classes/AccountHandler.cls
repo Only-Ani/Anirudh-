@@ -13,7 +13,7 @@ public class AccountHandler implements ITrigger
     }
     
     public void beforeInsert(SObject so){
-  		system.debug('--- beforeInsert is called');      
+  		system.debug('---hfAHSD beforeInsert is called');      
     }
     public void beforeUpdate(SObject oldSo, SObject so){
   		system.debug('--- beforeUpdate is called');      
